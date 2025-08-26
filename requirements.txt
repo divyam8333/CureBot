@@ -1,0 +1,17 @@
+# === Web Framework ===
+Django>=5.0,<6.0
+
+# === LangChain Ecosystem ===
+langchain>=0.2.0
+langchain-openai>=0.1.7
+langgraph>=0.1.8
+
+# === OpenAI ===
+openai>=1.30.0
+
+# === Environment Variables ===
+python-dotenv>=1.0.1
+
+# === Utilities ===
+tqdm>=4.66.1
+requests>=2.31.0
