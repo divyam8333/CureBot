@@ -1,8 +1,3 @@
-Got it ✅
-Here’s a **professional README.md** draft for your `CureBot` repo.
-
----
-
 # CureBot 🩺🤖
 
 **AI-powered Healthcare Assistant built with Django, LangGraph, and OpenAI**
@@ -60,7 +55,7 @@ CureBot/
 ### 1️⃣ Clone Repo
 
 ```bash
-git clone https://github.com/YOUR-USERNAME/CureBot.git
+git clone https://github.com/divyam8333/CureBot.git
 cd CureBot
 ```
 
